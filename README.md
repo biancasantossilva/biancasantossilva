@@ -8,7 +8,7 @@ Olá! Sou desenvolvedora e designer especializada em **iOS**, apaixonada por cri
 
 ---
 
-🔗 **[Linkedin:]([Bianca Santos](https://www.linkedin.com/in/biancadossantossilva/)**
+🔗 **[Linkedin:][Bianca Santos](https://www.linkedin.com/in/biancadossantossilva/)**
 
 
 
