@@ -1,5 +1,5 @@
 
-#  Desenvolvedora iOS e Designer
+# iOS Developer
 
 Olá! Sou desenvolvedora e designer especializada em **iOS**, apaixonada por criar experiências únicas e intuitivas para os usuários. Combinando design e desenvolvimento, busco sempre inovar e entregar soluções que se destaquem, proporcionando uma navegação fluída e eficiente.
 
