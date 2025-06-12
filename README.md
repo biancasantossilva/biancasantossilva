@@ -1,14 +1,11 @@
 
 # iOS Developer
 
-Olá! Sou desenvolvedora e designer especializada em **iOS**, apaixonada por criar experiências únicas e intuitivas para os usuários. Combinando design e desenvolvimento, busco sempre inovar e entregar soluções que se destaquem, proporcionando uma navegação fluída e eficiente.
-
-
-📱 Atualmente, focada em criar aplicativos incríveis para a plataforma Apple.
+Olá! Sou desenvolvedora e designer especializada em **iOS**, Atualmente, focada em criar aplicativos incríveis para a plataforma Apple.
 
 ---
 
-🔗 **Linkedin:[Bianca Santos](https://www.linkedin.com/in/biancadossantossilva/)**
+🔗 **Linkedin: [Bianca Santos](https://www.linkedin.com/in/biancadossantossilva/)**
 
 
 
