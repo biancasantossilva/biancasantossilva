@@ -1,7 +1,7 @@
 
-# iOS Developer
+# Olá,
 
-Olá! Sou desenvolvedora e designer especializada em **iOS**, Atualmente, focada em criar aplicativos incríveis para a plataforma Apple.
+Sou desenvolvedora e designer especializada em **iOS**, Atualmente, focada em criar aplicativos incríveis para a plataforma Apple.
 
 ---
 
